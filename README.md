@@ -3,5 +3,4 @@ Using template repository for linguistic analysis of conversations from [ConvoKi
 
 ## Objective
 
-Analyze custom conversational datasets by first converting them into a [ConvoKit](https://github.com/CornellNLP/ConvoKit) Corpus object.
-
+Analyzing custom conversational datasets based on a typical Convokit module.
